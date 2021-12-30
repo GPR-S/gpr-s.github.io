@@ -1955,5 +1955,6 @@ a {
 }
 
 .imatge {
-  width: 150;
+  width: 150px;
+  margin-right: 10px;
 }
