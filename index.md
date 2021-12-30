@@ -1,4 +1,0 @@
-
-
-## Gabriel Puig Roca-Sastre
-
