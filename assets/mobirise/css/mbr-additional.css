@@ -1957,6 +1957,7 @@ a {
 .imatge {
   width: 150px;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .oficial {
@@ -1979,4 +1980,8 @@ a {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+.th {
+  font-weight: 100;
 }
