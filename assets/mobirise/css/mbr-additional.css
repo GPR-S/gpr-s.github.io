@@ -1970,6 +1970,8 @@ a {
   display: inline-block;
   font-size: 16px;
   margin-top: 1%;
+  margin-right: 1%;
+  height: 40px;
 }
 
 .no-oficial {
@@ -1982,6 +1984,8 @@ a {
   display: inline-block;
   font-size: 16px;
   margin-top: 1%;
+  margin-right: 1%;
+  height: 40px;
 }
 
 .descarrega {
@@ -1994,6 +1998,8 @@ a {
   display: inline-block;
   font-size: 16px;
   margin-top: 1%;
+  margin-right: 1%;
+  height: 40px;
 }
 
 th {
