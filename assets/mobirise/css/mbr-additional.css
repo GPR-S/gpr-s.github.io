@@ -2041,3 +2041,8 @@ a {
 th {
   font-weight: 400;
 }
+
+.logo-footer {
+  vertical-align: middle;
+  align-items: middle;
+}
