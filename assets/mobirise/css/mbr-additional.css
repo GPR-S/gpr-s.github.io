@@ -2044,5 +2044,6 @@ th {
 
 .logo-footer {
   vertical-align: middle;
-  align-items: middle;
+  margin-left: auto;
+  margin-right: auto;
 }
